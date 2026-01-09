@@ -1,0 +1,31 @@
+{
+  "comparison": {
+    "category": "api",
+    "options": [
+      "REST API",
+      "GraphQL"
+    ],
+    "winner": "REST API",
+    "scores": {
+      "REST API": 4.095238095238095,
+      "GraphQL": 3.0952380952380953
+    },
+    "priorities": {
+      "cost": 5,
+      "performance": 4,
+      "ease_of_use": 3,
+      "scalability": 2,
+      "reliability": 4
+    },
+    "requirements": [
+      "Machine learning capabilities",
+      "Global deployment",
+      "Cost optimization"
+    ],
+    "constraints": [
+      "Budget under $2000/month",
+      "Small team",
+      ""
+    ]
+  }
+}

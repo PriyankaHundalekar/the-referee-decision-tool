@@ -1,0 +1,11 @@
+# The Referee - Streamlit Decision Making Tool
+# Simple requirements for the Streamlit app
+
+# Core framework
+streamlit==1.28.1
+
+# Data handling
+pandas==2.1.1
+
+# Optional: For advanced features
+numpy==1.24.3
